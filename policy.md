@@ -6,7 +6,7 @@
 
 **Product / service:** Azurite Classes (“**App**”, “**Services**”)
 
-**Website:** [https://azuriteclasses.com](https://azuriteclasses.com)
+**Websites:** [https://azuriteclasses.com](https://azuriteclasses.com) · [https://azurite.world](https://azurite.world)
 
 **Contact email:** [team@azurite.world](mailto:team@azurite.world)
 
@@ -16,7 +16,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how Azurite Edutech Private Limited collects, uses, stores, discloses, and protects information when you use the Azurite Classes mobile application, related websites (including azuriteclasses.com), and our educational services (together, the “**Services**”).
+This Privacy Policy explains how Azurite Edutech Private Limited collects, uses, stores, discloses, and protects information when you use the Azurite Classes mobile application, related websites (including [azuriteclasses.com](https://azuriteclasses.com) and [azurite.world](https://azurite.world)), and our educational services (together, the “**Services**”).
 
 By using the Services, you agree to this Privacy Policy. If you do not agree, please do not use the Services.
 
@@ -125,7 +125,7 @@ Our Services may be used in educational contexts. Where we knowingly collect per
 
 ## 11. Cookies and similar technologies (website)
 
-If you use [https://azuriteclasses.com](https://azuriteclasses.com), we or our partners may use cookies and similar technologies as described in any separate cookie notice or settings presented on the site.
+If you use [https://azuriteclasses.com](https://azuriteclasses.com) or [https://azurite.world](https://azurite.world), we or our partners may use cookies and similar technologies as described in any separate cookie notice or settings presented on each site.
 
 ---
 
@@ -137,7 +137,7 @@ The Services may contain links to third-party sites or integrate third-party too
 
 ## 13. Changes to this policy
 
-We may update this Privacy Policy from time to time. We will post the updated version with a new effective date and, where appropriate, notify you through the App, email, or the website. Continued use of the Services after changes become effective constitutes acceptance of the updated policy where permitted by law.
+We may update this Privacy Policy from time to time. We will post the updated version with a new effective date and, where appropriate, notify you through the App, email, or our websites ([azuriteclasses.com](https://azuriteclasses.com), [azurite.world](https://azurite.world)). Continued use of the Services after changes become effective constitutes acceptance of the updated policy where permitted by law.
 
 ---
 
@@ -151,4 +151,4 @@ Email: [team@azurite.world](mailto:team@azurite.world)
 
 Phone: +91 9620264936  
 
-Website: [https://azuriteclasses.com](https://azuriteclasses.com)
+Websites: [https://azuriteclasses.com](https://azuriteclasses.com) · [https://azurite.world](https://azurite.world)
